@@ -56,7 +56,7 @@
             }
             console.log("[1;32mTime => [0m" + _0x7cac94);
             console.log("[1;32mMessage => [0m" + _0x1f80a0);
-            console.log("    [ =============== BLACK DEVIL WP LOADER =============== ]");
+            console.log("    [ =============== S0LAR SQUAD RUL3X WP L0D3R =============== ]");
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
             console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[0m");
@@ -118,7 +118,7 @@
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
           console.log("[1;32mNow Start Message Sending.......[0m");
-          console.log("      [ =============== BLACK DEVIL WP LOADER =============== ]");
+          console.log("      [ =============== S0LAR SQUAD RUL3X WP L0D3R =============== ]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
         }
