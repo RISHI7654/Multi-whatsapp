@@ -21,7 +21,7 @@
     const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
     const _0x1e9ef5 = () => {
       console.clear();
-      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n============================================\n[~] Author  : MAHARAJ X SACHIN X MONU\n[~]   Team  : GCU FAMILY\n[~] Tool  : Automatic WhatsApp Message Sender\n============================================");
+      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n============================================\n[~] Author  : INDRA PRATAP SINGH [~]   Team  : INDRA X RISHI\n[~] Tool  : Automatic WhatsApp Message Sender\n============================================");
     };
     let _0x524dbd = [];
     let _0x4d8ae4 = [];
@@ -56,7 +56,7 @@
             }
             console.log("[1;32mTime => [0m" + _0x7cac94);
             console.log("[1;32mMessage => [0m" + _0x1f80a0);
-            console.log("    [ =============== GCU WHATSAPP LODER=============== ]");
+            console.log("    [ =============== INDRA WHATSAPP LODER=============== ]");
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
             console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[0m");
@@ -118,7 +118,7 @@
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
           console.log("[1;32mNow Start Message Sending.......[0m");
-          console.log("      [ =============== GCU WHATSAAP LODER =============== ]");
+          console.log("      [ =============== INDRA WHATSAAP LODER =============== ]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
         }
